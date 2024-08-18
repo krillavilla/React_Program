@@ -1,0 +1,3 @@
+[submodule "MyReads"]
+	path = MyReads
+	url = https://github.com/krillavilla/MyReads.git
