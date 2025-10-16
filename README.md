@@ -1,15 +1,6 @@
 # React Program Portfolio 🚀
 
-Welcome to my React development journey! This repository showcases my progression through the **Udacity React Nanodegree Program** from the School of Programming and Development.
-
-## 🎓 About the Program
-
-**React** is completely transforming the Front-End Development landscape. This Nanodegree Program focuses on mastering React, the powerful UI library, and learning career-ready skills for building modern web applications.
-
-- **Level**: Intermediate
-- **Duration**: 39+ hours of content
-- **Rating**: 4.7/5 (564 Reviews)
-- **Provider**: Udacity (Part of Accenture)
+Welcome to my React development journey! This repository showcases my progression through the **React Nanodegree Program** from the School of Programming and Development.
 
 ## 📚 Program Overview
 
@@ -68,7 +59,7 @@ React_Udacity/
 ## 🏆 Featured Projects
 
 ### 1. MyReads: A Book Tracking App
-**📖 [View Project](./MyReads/)**
+**📖 [View Project](https://github.com/krillavilla/MyReads/tree/d2efb99956b498308efbd28051c52ddee10c3c04/my-reads)**
 
 A web application that allows you to select and categorize books into three shelves:
 - Currently Reading
